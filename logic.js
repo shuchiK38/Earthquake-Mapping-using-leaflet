@@ -20,13 +20,18 @@ function createFeatures(earthquakeData) {
    pointToLayer : function(feature,latlng){
      return new L.CircleMarker(latlng,{
        radius : 10,
-       color : 	'#afff14'
+       color : 	'#afff14',
+      fillOpacity: 0.75,
+      fillColor: '#afff14'
      });
    },
     onEachFeature: onEachFeature
   });
 
-
+// A function to determine the marker size based on the magnitude
+function markerSize(mag) {
+  return Math.sqrt(mag) * 100;
+}
   // Send our earthquakes layer to the createMap function/
   createMap(earthquakes);
 }
@@ -68,5 +73,6 @@ function createMap(earthquakes) {
   L.control.layers(baseMaps, overlayMaps, {
     collapsed: false
   }).addTo(myMap);
+
 
 }

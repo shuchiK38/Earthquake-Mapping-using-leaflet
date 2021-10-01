@@ -19,7 +19,7 @@ function createFeatures(earthquakeData) {
   var earthquakes = L.geoJSON(earthquakeData, {
    pointToLayer : function(feature,latlng){
      return new L.CircleMarker(latlng,{
-       radius : 5,
+       radius : 10,
        color : 'red'
      });
    },

@@ -20,7 +20,7 @@ function createFeatures(earthquakeData) {
    pointToLayer : function(feature,latlng){
      return new L.CircleMarker(latlng,{
        radius : 10,
-       color : '#39FF14'
+       color : 	'#afff14'
      });
    },
     onEachFeature: onEachFeature

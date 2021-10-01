@@ -20,9 +20,9 @@ function createFeatures(earthquakeData) {
    pointToLayer : function(feature,latlng){
      return new L.CircleMarker(latlng,{
        radius : 10,
-       color : 	'#afff14',
+       color : 	'green',
       fillOpacity: 0.75,
-      fillColor: '#afff14'
+      fillColor: 'green'
      });
    },
     onEachFeature: onEachFeature
@@ -32,6 +32,10 @@ function createFeatures(earthquakeData) {
 function markerSize(mag) {
   return Math.sqrt(mag) * 100;
 }
+
+//Define arrays to hold the created magnitude and deepth marker.
+Mag = [];
+deepthOfMag = [];
   // Send our earthquakes layer to the createMap function/
   createMap(earthquakes);
 }

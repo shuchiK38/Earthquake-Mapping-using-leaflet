@@ -24,14 +24,9 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ![streetearthqauke](https://user-images.githubusercontent.com/81253160/138191128-2e1a4806-4e1b-4997-bed2-065995f4bfc4.png)
 
-   * **HINT:** The depth of the earth can be found as the third coordinate for each earthquake.
+   * The depth of the earth can be found as the third coordinate for each earthquake.Included popups that provide additional information about the earthquake when a marker is clicked.Created a legend that will provide context for map data.
 
-   * Include popups that provide additional information about the earthquake when a marker is clicked.
-
-   * Create a legend that will provide context for your map data.
-
-   * Your visualization should look something like the map above.
-
+  
 - - -
 
 ### Level 2: More Data (Optional)

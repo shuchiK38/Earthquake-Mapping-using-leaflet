@@ -28,34 +28,21 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ![popupmarker](https://user-images.githubusercontent.com/81253160/138191359-ba997ad9-d977-4d41-aefd-b0ec65651b14.png)
 
- 
-- - -
 
-### Level 2: More Data (Optional)
+# Level 2: Adding Tectonic Plates to Map
 
-![5-Advanced](Images/5-Advanced.png)
+IN this I took the second data set on map to illustrate the relationship between tectonic plates and seismic activity. I pulled in a second data set and visualize it alongside  original set of data. Data on tectonic plates was found at <https://github.com/fraxen/tectonicplates>.
 
-The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it alongside your original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
+In this step, 
 
-In this step, you will:
-
-* Plot a second data set on our map.
+* Plotted second data set on our map.I took the second data set of all months data from USGS website.
 
 * Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 
-* Add layer controls to our map.
+* Add layer controls to map.
 
 - - -
 
-### Assessment
-
-Your final product will be assessed according to [this grading rubric](Leaflet_Grading_Rubric.pdf)
-
-**Good luck!**
-
-## Rubric
-
-[Unit 15 Rubric - Leaflet Homework - Visualizing Data with Leaflet](https://docs.google.com/document/d/1kDNeT4a54ik_AZrHYN3LmVMqH0hDuiwbK2h5lHNxumQ/edit?usp=sharing)
 
 ___
 © 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	

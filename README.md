@@ -36,12 +36,11 @@ IN this I took the second data set on map to illustrate the relationship between
 In this step, 
 
 * Plotted second data set on our map.I took the second data set of all months data from USGS website.
-
 * Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
-
 * Add layer controls to map.
 
-- - -
+![tectonicplates](https://user-images.githubusercontent.com/81253160/138197519-081e529e-a8cd-4f7f-bc41-85a3bb02fb17.png)
+
 
 
 ___

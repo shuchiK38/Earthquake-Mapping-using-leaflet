@@ -16,11 +16,13 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ![3-Data](https://user-images.githubusercontent.com/81253160/138190687-3df355e8-d422-4e74-b97d-91d659366513.png)
 
-2. **Import & Visualize the Data**
+2. Then Import & Visualize the Data.
 
-   Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+   Created a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
-   * Your data markers should reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
+   * Data markers reflects the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes  appears larger and earthquakes with greater depth  appears darker in color.
+
+![streetearthqauke](https://user-images.githubusercontent.com/81253160/138191128-2e1a4806-4e1b-4997-bed2-065995f4bfc4.png)
 
    * **HINT:** The depth of the earth can be found as the third coordinate for each earthquake.
 

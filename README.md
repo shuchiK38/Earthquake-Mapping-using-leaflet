@@ -2,7 +2,8 @@
 
 ## Background
 
-![1-Logo](Images/1-Logo.png)
+![1-Logo](https://user-images.githubusercontent.com/81253160/138190137-605920d9-4b66-4c5f-9a3b-4ce395397f52.png)
+
 
 Welcome to the United States Geological Survey, or USGS for short. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 

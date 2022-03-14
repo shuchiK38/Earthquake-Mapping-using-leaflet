@@ -1,4 +1,4 @@
-# Leaflet Challange: Visualizing Data with Leaflet
+# Earthquake mappping : Visualizing Data with Leaflet
 
 ## Background
 
